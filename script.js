@@ -1,3 +1,5 @@
+//Original Code Author: Zachary Lott
+//Author Github: zacharylott94@gmail.com
 //localized for IE and Chrome
 
 /*To add a new clock:
